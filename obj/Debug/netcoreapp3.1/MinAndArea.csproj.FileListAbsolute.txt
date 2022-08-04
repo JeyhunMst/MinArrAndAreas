@@ -1,0 +1,14 @@
+C:\Users\FA506QM\Desktop\MinandArea\MinAndArea\bin\Debug\netcoreapp3.1\MinAndArea.exe
+C:\Users\FA506QM\Desktop\MinandArea\MinAndArea\bin\Debug\netcoreapp3.1\MinAndArea.deps.json
+C:\Users\FA506QM\Desktop\MinandArea\MinAndArea\bin\Debug\netcoreapp3.1\MinAndArea.runtimeconfig.json
+C:\Users\FA506QM\Desktop\MinandArea\MinAndArea\bin\Debug\netcoreapp3.1\MinAndArea.runtimeconfig.dev.json
+C:\Users\FA506QM\Desktop\MinandArea\MinAndArea\bin\Debug\netcoreapp3.1\MinAndArea.dll
+C:\Users\FA506QM\Desktop\MinandArea\MinAndArea\bin\Debug\netcoreapp3.1\MinAndArea.pdb
+C:\Users\FA506QM\Desktop\MinandArea\MinAndArea\obj\Debug\netcoreapp3.1\MinAndArea.csproj.AssemblyReference.cache
+C:\Users\FA506QM\Desktop\MinandArea\MinAndArea\obj\Debug\netcoreapp3.1\MinAndArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA506QM\Desktop\MinandArea\MinAndArea\obj\Debug\netcoreapp3.1\MinAndArea.AssemblyInfoInputs.cache
+C:\Users\FA506QM\Desktop\MinandArea\MinAndArea\obj\Debug\netcoreapp3.1\MinAndArea.AssemblyInfo.cs
+C:\Users\FA506QM\Desktop\MinandArea\MinAndArea\obj\Debug\netcoreapp3.1\MinAndArea.csproj.CoreCompileInputs.cache
+C:\Users\FA506QM\Desktop\MinandArea\MinAndArea\obj\Debug\netcoreapp3.1\MinAndArea.dll
+C:\Users\FA506QM\Desktop\MinandArea\MinAndArea\obj\Debug\netcoreapp3.1\MinAndArea.pdb
+C:\Users\FA506QM\Desktop\MinandArea\MinAndArea\obj\Debug\netcoreapp3.1\MinAndArea.genruntimeconfig.cache
